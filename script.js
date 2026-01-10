@@ -59,3 +59,4 @@ function sendToBackend(audioBlob, faceBlob) {
         body: formData
     });
 }
+{}
